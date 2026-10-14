@@ -170,4 +170,4 @@ Share your Git tips here:
 
 **Last updated:** [Add date when you modify this file]
 
-this line was changed in the feature branch
+this line is changed in main branch
